@@ -60,7 +60,7 @@
         <!--Title-->
         <scene sceneID="wUF-jY-vot">
             <objects>
-                <viewController id="cl1-Zw-Xso" customClass="Splish" customModule="Demo7" customModuleProvider="target" colorLabel="IBBuiltInLabel-Orange" sceneMemberID="viewController">
+                <viewController id="cl1-Zw-Xso" customClass="Baidu_data" customModule="Demo7" customModuleProvider="target" colorLabel="IBBuiltInLabel-Orange" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8VI-iK-wZ8">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -92,6 +92,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="otR-CZ-1Sa"/>
+        <segue reference="QP0-BQ-BPX"/>
     </inferredMetricsTieBreakers>
 </document>

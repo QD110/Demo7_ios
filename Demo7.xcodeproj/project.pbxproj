@@ -16,6 +16,7 @@
 		098F892D224D141500D955A1 /* Demo7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F892C224D141500D955A1 /* Demo7UITests.swift */; };
 		098F893B224D19D900D955A1 /* Splish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F893A224D19D900D955A1 /* Splish.swift */; };
 		098F893D224D299800D955A1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F893C224D299800D955A1 /* Person.swift */; };
+		098F893F224D3F7700D955A1 /* Baidu_data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F893E224D3F7700D955A1 /* Baidu_data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		098F892E224D141500D955A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		098F893A224D19D900D955A1 /* Splish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splish.swift; sourceTree = "<group>"; };
 		098F893C224D299800D955A1 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		098F893E224D3F7700D955A1 /* Baidu_data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baidu_data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				098F890C224D141300D955A1 /* AppDelegate.swift */,
 				098F890E224D141300D955A1 /* ViewController.swift */,
 				098F893A224D19D900D955A1 /* Splish.swift */,
+				098F893E224D3F7700D955A1 /* Baidu_data.swift */,
 				098F893C224D299800D955A1 /* Person.swift */,
 				098F8910224D141300D955A1 /* Main.storyboard */,
 				098F8913224D141500D955A1 /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 				098F890F224D141300D955A1 /* ViewController.swift in Sources */,
 				098F890D224D141300D955A1 /* AppDelegate.swift in Sources */,
 				098F893D224D299800D955A1 /* Person.swift in Sources */,
+				098F893F224D3F7700D955A1 /* Baidu_data.swift in Sources */,
 				098F893B224D19D900D955A1 /* Splish.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
